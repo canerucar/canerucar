@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://media.giphy.com/media/Hg24vFazdtZza/giphy.gif)
+
 <!--
 **canerucar/canerucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
