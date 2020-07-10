@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋, It's Caner.
 
 🎅🏻 How's it goingg
+
+🌱 I'm an iOS and Front-End Developer.
 
 <!--
 **canerucar/canerucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
