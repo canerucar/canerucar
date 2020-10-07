@@ -2,7 +2,8 @@
 
 🎅🏻 How's it goingg
 
-🌱 I'm an iOS and Front-End Developer.
+🌱 I'm an iOS and Front-End Developer and zombie. <br>
+💬 Ask me about : canerucar0@gmail.com
 
 <!--
 **canerucar/canerucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
