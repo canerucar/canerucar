@@ -5,6 +5,8 @@
 🌱 I'm an iOS and Front-End Developer and zombie. <br>
 💬 Ask me about : canerucar0@gmail.com
 
+![](https://komarev.com/ghpvc/?username=canerucar&label=PROFILE+VIEWS)
+
 <!--
 **canerucar/canerucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
