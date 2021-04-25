@@ -7,17 +7,15 @@
 
 ![](https://komarev.com/ghpvc/?username=canerucar&label=PROFILE+VIEWS)
 
-<!--
-**canerucar/canerucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech I Use
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px" height="30px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px" height="30px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30px" height="30px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30px" height="30px" />
+<img src="https://miro.medium.com/max/724/1*5QD8DKhOjRe-gcYjozlLNQ.png" width="25px" height="25px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px" height="30px" />
+<img src="https://www.staryazilimofisi.com/wp-content/uploads/2014/04/jQuery.png" width="30px" height="30px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30px" height="30px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="30px" height="30px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30px" height="30px" />
